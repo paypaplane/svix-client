@@ -1,0 +1,4 @@
+skipValidateSpec: true
+composerPackageName: paypaplane/svix-client
+additionalProperties:
+  invokerPackage: Svix\ApiClient
